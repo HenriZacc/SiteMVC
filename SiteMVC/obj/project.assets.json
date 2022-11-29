@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henri\\source\\repos\\SiteMVC\\SiteMVC\\SiteMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Henri\\Documents\\SiteMVC\\SiteMVC\\SiteMVC\\SiteMVC.csproj",
       "projectName": "SiteMVC",
-      "projectPath": "C:\\Users\\Henri\\source\\repos\\SiteMVC\\SiteMVC\\SiteMVC.csproj",
+      "projectPath": "C:\\Users\\Henri\\Documents\\SiteMVC\\SiteMVC\\SiteMVC\\SiteMVC.csproj",
       "packagesPath": "C:\\Users\\Henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henri\\source\\repos\\SiteMVC\\SiteMVC\\obj\\",
+      "outputPath": "C:\\Users\\Henri\\Documents\\SiteMVC\\SiteMVC\\SiteMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
